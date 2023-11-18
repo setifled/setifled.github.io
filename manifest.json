@@ -1,6 +1,6 @@
 {
-    "name": "setif_led",
-    "short_name": "setif_led",
+    "name": "Enseigne Lumineuse Led",
+    "short_name": "Enseigne Lumineuse Led",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
