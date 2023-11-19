@@ -87407,7 +87407,7 @@ A.Tl.prototype={
 I(){return"ToastColor."+this.b}}
 A.P8.prototype={
 F(a){var s=A.a([A.aEV(null,new A.aeU(),t.n)],t.Ds)
-return A.aTB(new A.Ch("/",A.b1U(),"Enseigne Lumineuse Led",$.aNk(),!1,null),s)}}
+return A.aTB(new A.Ch("/",A.b1U(),"Setif Led",$.aNk(),!1,null),s)}}
 A.aeU.prototype={
 $1(a){var s,r,q,p,o,n,m,l=null,k=t.WF,j=A.a([],k),i=A.a([],k),h=A.a([],k)
 k=A.a([],k)
@@ -88606,7 +88606,7 @@ $2(a,b){return B.HN},
 $S:575}
 A.LX.prototype={
 F(a){var s=this,r=null,q=A.aN(s.c,r,r,r,r,r,r),p=A.ky(s.w,r,r,r),o=A.dp(!1,r,!0,A.ky(r,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
-return A.ce(r,A.aIp(s.d,r,r,A.aBi(r,new A.hn(4,A.eg(20),B.iv),r,r,r,r,r,r,!0,r,r,3,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,q,r,r,r,p,r,r,r,r,r,r,o,r,r,r,r),B.l8,s.at,!1,r,r,r,!1,r,s.z),B.n,r,r,r,r,r,B.ch,r,r,r,r)}}
+return A.ce(r,A.aIp(s.d,r,r,A.aBi(r,new A.hn(4,A.eg(20),B.iv),r,r,r,r,r,r,!0,r,r,6,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,q,r,r,r,p,r,r,r,r,r,r,o,r,r,r,r),B.l8,s.at,!1,r,r,r,!1,r,s.z),B.n,r,r,r,r,r,B.ch,r,r,r,r)}}
 A.Mm.prototype={
 F(a){var s=A.cj(a,150,100,150)
 return A.cM(A.iw("assets/images/divider.jpg",B.fk,null,null),s,1/0)}}
